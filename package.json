@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host --port 3000",
-    "build": "npx vite build",
+    "build": "vite",
     "preview": "vite preview"
   },
   "dependencies": {
